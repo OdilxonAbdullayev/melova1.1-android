@@ -1,0 +1,26 @@
+[
+  {
+    "id": "demo-0",
+    "title": "Yangi tong",
+    "artist": "MELOVA Originals",
+    "genre": "Energiya",
+    "owner_id": "demo",
+    "status": "approved"
+  },
+  {
+    "id": "demo-1",
+    "title": "Tungi osmon",
+    "artist": "MELOVA Originals",
+    "genre": "Sokin",
+    "owner_id": "demo",
+    "status": "approved"
+  },
+  {
+    "id": "demo-2",
+    "title": "Iliq lahzalar",
+    "artist": "MELOVA Originals",
+    "genre": "Romantik",
+    "owner_id": "demo",
+    "status": "approved"
+  }
+]
